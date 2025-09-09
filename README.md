@@ -1,4 +1,4 @@
-# Hi, I'm Matthew 👋
+# Hi, I'm Matthew
 
 Game Programming student at Centennial College (expected 2027). I build **C++/C#** projects, Unity games, and **SQL/Web** projects with clean structure and a focus on performance.
 
